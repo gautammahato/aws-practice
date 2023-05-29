@@ -1,1 +1,1 @@
-# aws-practice
+sudo apt install nginx
